@@ -1,0 +1,106 @@
+[
+  {
+    "ContainingType": "ApiHavaDurumuProjesi.Controllers.WeathersController",
+    "Method": "WeatherCityList",
+    "RelativePath": "api/Weathers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHavaDurumuProjesi.Controllers.WeathersController",
+    "Method": "CreateWeatherCity",
+    "RelativePath": "api/Weathers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "city",
+        "Type": "ApiHavaDurumuProjesi.Entities.City",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHavaDurumuProjesi.Controllers.WeathersController",
+    "Method": "DeleteWeatherCity",
+    "RelativePath": "api/Weathers",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHavaDurumuProjesi.Controllers.WeathersController",
+    "Method": "UpdateWeatherCity",
+    "RelativePath": "api/Weathers",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "city",
+        "Type": "ApiHavaDurumuProjesi.Entities.City",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHavaDurumuProjesi.Controllers.WeathersController",
+    "Method": "GetByIdWeatherCity",
+    "RelativePath": "api/Weathers/GetByIdWeatherCity",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHavaDurumuProjesi.Controllers.WeathersController",
+    "Method": "MaxTempCityName",
+    "RelativePath": "api/Weathers/MaxTempCityName",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHavaDurumuProjesi.Controllers.WeathersController",
+    "Method": "MinTempCityName",
+    "RelativePath": "api/Weathers/MinTempCityName",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiHavaDurumuProjesi.Controllers.WeathersController",
+    "Method": "TotalCityCount",
+    "RelativePath": "api/Weathers/TotalCityCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
