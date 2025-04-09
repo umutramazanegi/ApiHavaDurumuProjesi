@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiHavaDurumuProjesi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4a289598fd8314b7e465c5b0603e0b5023575a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a13609993939582401ff199ef6d87c8077d5f334")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiHavaDurumuProjesi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiHavaDurumuProjesi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
